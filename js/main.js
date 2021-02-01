@@ -1,4 +1,4 @@
-fetch("../data/data.json").then
+fetch("https://github.com/Anusha-Mallireddy/ecommerce/blob/main/data/data.json").then
 (response=>{
 	return response.json()
 }).then(data=>{
