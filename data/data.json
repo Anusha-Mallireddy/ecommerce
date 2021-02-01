@@ -1,0 +1,25 @@
+{
+	"Mobiles":[
+		{"name":"ASUS",
+		"image":"image/asus.jpg",
+	    "oprice":17000,
+	    "price":14000},
+		{"name":"SAMSUNG_J7",
+		"image":"image/j7.jpg",
+	    "oprice":16000,
+	     "price":13000},
+	    {"name":"SAMSUNG_J8",
+		"image":"image/j8.jpg",
+	    "oprice":18000,
+	    "price":15000
+	    },
+	    {"name":"APPLE SE",
+		"image":"image/se.jpg",
+	    "oprice":31000,
+	    "price":23000},
+	    {"name":"SAMSUNG_A30",
+		"image":"image/a30.jpg",
+	    "oprice":16000,
+	    "price":15000
+	    }]
+}
